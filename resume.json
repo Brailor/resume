@@ -2,9 +2,9 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Viktor Ohád",
-    "label": "Sofware Developer",
+    "label": "Software Developer",
     "email": "viktor.ohad@proton.me",
-    "summary": "I am a full stack web developer who can build apps from the ground up. I am a very product focused developer who priotizes user feedback first and foremost. I am generally very flexible when investigating new roles.",
+    "summary": "I am a full stack developer who can build apps from the ground up. I am a very product focused developer who priotizes user feedback first and foremost. I am generally very flexible when investigating new roles.",
     "profiles": [
       {
         "network": "GitHub",
