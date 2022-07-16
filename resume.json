@@ -1,0 +1,116 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Viktor Ohád",
+    "label": "Sofware Developer",
+    "email": "viktor.ohad@proton.me",
+    "summary": "I am a full stack web developer who can build apps from the ground up. I am a very product focused developer who priotizes user feedback first and foremost. I am generally very flexible when investigating new roles.",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Brailor",
+        "url": "https://github.com/Brailor"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Instructure",
+      "location": "Budapest, HU",
+      "description": "",
+      "position": "Senior Sofware Engineer",
+      "url": "https://www.instructure.com/",
+      "endDate": "",
+      "startDate": "2020-09-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Danubius Informatika",
+      "location": "Budapest, HU",
+      "description": "",
+      "position": "Full-stack Developer",
+      "url": "https://www.danubiusinfo.hu/",
+      "startDate": "2019-11-01",
+      "endDate": "2020-09-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Lufthansa Systems Hungária",
+      "location": "Budapest, HU",
+      "description": "",
+      "position": "JavaScript Developer",
+      "url": "https://job.lhsystems.hu/en/home",
+      "startDate": "2017-07-16",
+      "endDate": "2019-10-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "Proficient",
+      "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "Go",
+        "Rust",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "React",
+        "Next.js",
+        "Webpack/ESBuild/Vite"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Proficient",
+      "keywords": [
+        "Node.js",
+        "Prisma",
+        "SQL"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Proficient",
+      "keywords": [
+        "CI/CD",
+        "GitHub Actions",
+        "Vercel",
+        "Netlify"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Hungarian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": []
+    }
+  ],
+  "projects": [],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
