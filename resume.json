@@ -18,12 +18,18 @@
       "name": "Instructure",
       "location": "Budapest, HU",
       "description": "",
-      "position": "Senior Sofware Engineer",
+      "position": "Senior Software Engineer",
       "url": "https://www.instructure.com/",
       "endDate": "",
       "startDate": "2020-09-01",
-      "summary": "",
-      "highlights": []
+      "summary": "Instructure is the maker of Canvas lms. I was working on the design-system/component library, which is an open-source React based project which aims to help engineers developing accessible and relible user interfaces while providing the Canvas look and feel.\nUsed technologies: React, Webpack, ESBuild, TypeScript, GitHub Actions\n",
+      "highlights": [
+        "Was heavily involved of the JavaScript to TypeScript migration of a pretty big React based project",
+        "Made the build/bootstrap process of the same project faster by 2x",
+        "Layed down the foundations of a new Web-component based design system/component library",
+        "Made the release process more reliable by simplifying it",
+        "Moved the project from an internal Jenkins CI environment to an open-source GitHub Action based one"
+      ]
     },
     {
       "name": "Danubius Informatika",
@@ -33,7 +39,7 @@
       "url": "https://www.danubiusinfo.hu/",
       "startDate": "2019-11-01",
       "endDate": "2020-09-01",
-      "summary": "",
+      "summary": "I was working on a team which was building a learning and teaching platform for Belgian schools. I started here as a Frontend developer, but I was interseted in the whole scale of development so eventually I transitioned to the Backend as well.",
       "highlights": []
     },
     {
