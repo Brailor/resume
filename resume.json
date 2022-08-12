@@ -39,7 +39,7 @@
       "url": "https://www.danubiusinfo.hu/",
       "startDate": "2019-11-01",
       "endDate": "2020-09-01",
-      "summary": "I was working on a team which was building a learning and teaching platform for Belgian schools. I started here as a Frontend developer, but I was interseted in the whole scale of development so eventually I transitioned to the Backend as well.",
+      "summary": "I was working on a team which was building a learning and teaching platform for Belgian schools. I started here as a Frontend developer, but I was interseted in the whole stack of development so eventually I transitioned to write end to end features as well. \n Used technologies: React, Webpack, TypeScript, C#, Azure DevOps, MSSQL",
       "highlights": []
     },
     {
@@ -50,7 +50,7 @@
       "url": "https://job.lhsystems.hu/en/home",
       "startDate": "2017-07-16",
       "endDate": "2019-10-01",
-      "summary": "",
+      "summary": "Used technologies: Ext.js, React, Node.js, TypeScript",
       "highlights": []
     }
   ],
