@@ -4,7 +4,7 @@
     "name": "Viktor Ohád",
     "label": "Software Developer",
     "email": "mail@viktorohad.com",
-    "summary": "I am a full stack developer who can build apps from the ground up. I am a very product focused developer who priotizes user feedback first and foremost. I am generally very flexible when investigating new roles.",
+    "summary": "I am a software developer committed to continuous learning and improvement. I can build applications from the ground up and I am a very product driven developer.",
     "profiles": [
       {
         "network": "GitHub",
@@ -22,13 +22,14 @@
       "url": "https://www.instructure.com/",
       "endDate": "",
       "startDate": "2020-09-01",
-      "summary": "Instructure is the maker of Canvas lms. I was working on the design-system/component library, which is an open-source React based project which aims to help engineers developing accessible and relible user interfaces while providing the Canvas look and feel.\nUsed technologies: React, Webpack, ESBuild, TypeScript, GitHub Actions\n",
+      "summary": "Instructure is the maker of Canvas which is a learning management platform. While I was working here I was involved in the development of the Instructure design-system/component library, which is an open-source React based project.\nUsed technologies: React, Node.js, Lit, Webpack, ESBuild, TypeScript, Git/GitHub, GitHub Actions\n",
       "highlights": [
-        "Was heavily involved of the JavaScript to TypeScript migration of a pretty big React based project",
-        "Made the build/bootstrap process of the same project faster by 2x",
-        "Layed down the foundations of a new Web-component based design system/component library",
-        "Made the release process more reliable by simplifying it",
-        "Moved the project from an internal Jenkins CI environment to an open-source GitHub Action based one"
+        "Played a significant role in the migration of a 200k+ line-of-code React project from JavaScript to TypeScript",
+        "Involved in collaboration efforts with accessiblity experts and designers to ensure quality user experience for our users",
+        "Developed and maintained the CI workflows using GitHub Actions",
+        "Accelerated the build process for the project with 100+ packages by parallelizing and simplifying the process, resulting in a 2x speed improvement",
+        "Mentored intern team member and helped colleagues",
+        "Involved in the process of laying down the architechture of a new web component based design system using Lit"
       ]
     },
     {
@@ -39,8 +40,10 @@
       "url": "https://www.danubiusinfo.hu/",
       "startDate": "2019-11-01",
       "endDate": "2020-09-01",
-      "summary": "I was working on a team which was building a learning and teaching platform for Belgian schools. I started here as a Frontend developer, but I was interseted in the whole stack of development so eventually I transitioned to write end to end features as well. \n Used technologies: React, Webpack, TypeScript, C#, Azure DevOps, MSSQL",
-      "highlights": []
+      "summary": "I worked on a team responsible for developing a learning and teaching platform for Belgian schools, Scoodle. I started working as a frontend developer, but later on I started picking up backend tasks as well. \n Used technologies: React, Webpack, TypeScript, C#, Azure DevOps, MSSQL, Git",
+      "highlights": [
+        "Contributed to both the frontend and backend implementation of a French grammar learning module for Scoodle"
+      ]
     },
     {
       "name": "Lufthansa Systems Hungária",
@@ -50,8 +53,12 @@
       "url": "https://job.lhsystems.hu/en/home",
       "startDate": "2017-07-16",
       "endDate": "2019-10-01",
-      "summary": "Used technologies: Ext.js, React, Node.js, TypeScript",
-      "highlights": []
+      "summary": "At Lufthansa I worked on various projects, primarily focused on the client-side development of web applications.\nUsed technologies: Ext.js, React, Node.js, TypeScript, Git",
+      "highlights": [
+        "I was working on a project called MyDutyTrip that allowed the employees of airlines to make duty and leisure bookings (flight, taxi, hotel etc.)",
+        "Authored technical posts on improving React application performance for an internal blog",
+        "Was the lead frontend developer of a team of 3 frontend developers for a greenfield project"
+      ]
     }
   ],
   "skills": [
@@ -61,9 +68,7 @@
       "keywords": [
         "JavaScript",
         "TypeScript",
-        "Go",
-        "Rust",
-        "Bash"
+        "Rust"
       ]
     },
     {
@@ -73,6 +78,7 @@
         "HTML",
         "CSS",
         "React",
+        "Lit",
         "Next.js",
         "Webpack/ESBuild/Vite"
       ]
@@ -82,8 +88,7 @@
       "level": "Proficient",
       "keywords": [
         "Node.js",
-        "Prisma",
-        "SQL"
+        "Prisma"
       ]
     },
     {
@@ -94,6 +99,13 @@
         "GitHub Actions",
         "Vercel",
         "Netlify"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "proficient",
+      "keywords": [
+        "Git"
       ]
     }
   ],
@@ -107,13 +119,6 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [
-    {
-      "name": "",
-      "keywords": []
-    }
-  ],
-  "projects": [],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",

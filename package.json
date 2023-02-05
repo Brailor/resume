@@ -14,6 +14,7 @@
   },
   "homepage": "https://github.com/Brailor/resume#readme",
   "dependencies": {
+    "jsonresume-theme-full": "^0.0.4",
     "resume-schema": "^1.0.0"
   }
 }
